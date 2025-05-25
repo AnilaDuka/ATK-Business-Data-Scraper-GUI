@@ -1,6 +1,6 @@
 # ATK Business Data Scraper (GUI)
 
-This is a Python-based desktop tool that allows users to scrape business data from the **ATK (Tax Administration of Kosovo)** website:  
+This is a Python-based desktop tool that allows users to scrape business data from the **ATK (Administrata Tatimore e Kosovës)** website:  
 [https://apps.atk-ks.org/BizPasiveApp/VatRegist/Index](https://apps.atk-ks.org/BizPasiveApp/VatRegist/Index)
 
 The tool provides a simple and user-friendly **graphical interface** built with `Tkinter`, making it easy for anyone—even non-technical users—to input a business number and retrieve the related business details. The extracted data is then saved to an Excel file for easy access and reuse.
